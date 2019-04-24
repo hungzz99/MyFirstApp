@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-	<a src="https://www.facebook.com/binh.trinh.750">Tai Day</a>
+	<a href="https://www.facebook.com/binh.trinh.750">Tai Day</a>
 
 <?php
 echo "My first PHP script!";
