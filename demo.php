@@ -29,7 +29,15 @@
 		font-size: 200%;
 		padding-right: 5px;
 	}
+	.nav
+		{ 	margin-left: 350px;
+			width: 70%;
+			height: 50px;
+			background-color: #C6BEBE;
+			align-self: auto;
 
+
+		}
 
 	<form/>
 </style>
