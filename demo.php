@@ -27,7 +27,6 @@
 			<div>
 				<form action="https://hungzz99.herokuapp.com/demo.php">
 						Hot line : 099-888-999
-						<input type="submit" name="SignUp" value="Sing Up">
 						<input type="button" name="SignIn" value="Login">
 				</form>
 			</div>
