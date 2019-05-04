@@ -47,7 +47,7 @@
 
 	.header img{
 		max-width: 90%;
-		max-height: 95%;
+		max-height: 103%;
 	}
 	.banner
 	{
