@@ -103,6 +103,7 @@
 		color: black;
 	}
 </style>
+</head>
 <body>
 	<div class="Web">
 		<div class="header">
