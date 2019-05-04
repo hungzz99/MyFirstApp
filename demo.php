@@ -83,7 +83,7 @@
 			<div class="button">
 				  <div>
 
-					<form action="http://localhost/singup.php">
+					<form action="https://hungzz99.herokuapp.com/loign.php">
 						Hot line : 099-888-999
 						<input type="button" name="SignIn" value="Login">
 					</form>
@@ -98,9 +98,9 @@
 			</form>
 			<div class="nav">
 				<ul>
-					<li><a href="http://localhost/AssignmentWeb.php">Home</a></li>
-					<li><a href="http://localhost/CATEGORY.php">Category</a></li>
-					<li><a href="http://localhost/Admin.php">Admin</a></li>
+					<li><a href="https://hungzz99.herokuapp.com/demo.php">Home</a></li>
+					<li><a >Category</a></li>
+					<li><a >Admin</a></li>
 
 				</ul><br>
 		</div>
