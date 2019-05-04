@@ -11,7 +11,7 @@ session_start();
 	if($count==1){
 	$_SESSION['user'] = true;
 	    
-	echo "<meta http-equiv='refresh' content='0;url=demo.php' />";
+	echo "<meta http-equiv='refresh' content='0;url=admin.php' />";
 	}else{
 	echo "<meta http-equiv='refresh' content='0;url=loign.php' />";
 	}
