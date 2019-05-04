@@ -118,6 +118,11 @@
 			text-align: center;
 			
 		}
+		.hello
+		{
+			font-color: blue;
+			text-decoration: underline;
+		}
 	
 		
 		
@@ -136,7 +141,7 @@ $result = pg_query($db,"SELECT * FROM login");
 $rows=pg_fetch_assoc($result)
 ?>
 
-			<div><?php echo "Hello " . $rows['users'] ?></div>
+			<div><?php echo "Hello, " . $rows['users'] ?></div>
 					
 				</div>
 			</div>			
