@@ -21,14 +21,14 @@
 		.navbg{
 			width: 100%;
 			height: 50px;
-			background-color: #C6BEBE;
+			background-color: #3DEDEF;
 
 		}
 		.nav
 		{ 	margin-left: 350px;
 			width: 50%;
 			height: 50px;
-			background-color: #C6BEBE;
+			background-color: #3DEDEF;
 			align-self: auto;
 
 
@@ -110,6 +110,13 @@
 		.tittle
 		{
 			margin:10px;
+		}
+		.banner p
+		{
+			font-size: 80px;
+			color: blue;
+			text-align: center;
+			
 		}
 	
 		
