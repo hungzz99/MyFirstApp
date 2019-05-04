@@ -74,7 +74,7 @@
 <body>
 	<div class="Web">
 		<div class="header">
-			<img src="img/.png">
+			<img src="avatar.png">
 			<div class="button">
 				  <div>
 
