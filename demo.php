@@ -134,7 +134,7 @@
 		</div>
 	</div>
 		<div class="banner">
-			<p>Toy ATN</p>
+			<p>Toy Store</p>
 
 
 </body>
