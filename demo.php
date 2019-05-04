@@ -146,22 +146,16 @@
 			<p>Toy ATN</p>
 			<div class="list">
 				<?php
-				$host = 'localhost';
-				$dbname = 'dbnews';
-				$un = 'root';
-				$pw = '';
-				$port = '3306';
-				$conn = new mysqli($host,$un,$pw,$dbname,$port);
+				pg_connect("host=ec2-174-129-208-118.compute-1.amazonaws.com port=5432 dbname=d6hnv52hdi9nnk user=gpjcnwwhasdiya password=e9144a959f5174b3271698c559c6c557bce4d71494e9599fa793d33ede9b9436")
 				$sql = "select * from category";
 				$result = $conn -> query($sql);
-				$rows = mysqli_fetch_all($result,MYSQLI_ASSOC);
+				$rows = pg_fetch_all($result);
 				for ($i = 0; $i<count($rows);$i++)
 				{
 					?>
 					<div class="item">
-
 						<div class="tittle"><?=$rows[$i]['tittle']?></div>
-						<div class="image"><a href="productdetail.php?ProID=<?=$rows[$i]['ProID']?>"><img src="<?=$rows[$i]['image']?>"></div></a>
+						<div class="image"><a href="demo.php?proid=<?=$rows[$i]['proid']?>"><img src="<?=$rows[$i]['image']?>"></div></a>
 						<div class="tittle"><?=$rows[$i]['des']?></div>
 					</div>
 				<?php
