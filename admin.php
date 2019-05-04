@@ -145,7 +145,7 @@ $rows=pg_fetch_assoc($result)
 					
 				</div>
 				<form action="https://hungzz99.herokuapp.com/demo.php">
-					<input type="submit" name="Log Out">
+					<button> Log Out </button>
 				</form>
 			</div>			
 		</div>
