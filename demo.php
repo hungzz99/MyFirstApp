@@ -53,8 +53,8 @@
 	{
 		font-size: 80px;
 		color: red;
-		text-align: center;
-		text-decoration: underline;
+		text-align: blue;
+		
 	}
 	.list
 	{
@@ -135,7 +135,7 @@
 	</div>
 		<div class="banner">
 			<p>Toy ATN</p>
-			
+
 
 </body>
 </html>
