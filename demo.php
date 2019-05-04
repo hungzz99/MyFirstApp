@@ -46,8 +46,8 @@
 	}
 
 	.header img{
-		max-width: 100px;
-		max-height: 100px;
+		max-width: 90%;
+		max-height: 95%;
 	}
 	.banner
 	{
@@ -79,7 +79,7 @@
 <body>
 	<div class="Web">
 		<div class="header">
-			<img src="https://i.kinja-img.com/gawker-media/image/upload/s--vSY-o42Q--/c_scale,f_auto,fl_progressive,q_80,w_800/ecq5rsk3n1nolujedskk.jpg">
+			<img src="https://i.ytimg.com/vi/Nn21sB-THvc/maxresdefault.jpg">
 			<div class="button">
 				  <div>
 
