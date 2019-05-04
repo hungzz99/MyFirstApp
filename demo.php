@@ -55,6 +55,14 @@
 		height: 1200px;
 
 	}
+	.banner p
+	{
+		font-size: 80px;
+		color: red;
+		text-align: center;
+		text-decoration: underline;
+	}
+
 	.list
 	{
 		width: 100%;
