@@ -100,8 +100,8 @@
 		}
 		.item img
 		{
-			width: 400px;
-			height: 280px;
+			width:100%;
+			height: 100%;
 		}
 		.image
 		{
