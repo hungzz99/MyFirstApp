@@ -155,7 +155,7 @@ $result = pg_query($db,"SELECT * FROM Products");
 
 					<div class="item">
 						<div class="tittle"><?php echo $row['iname'] ?></div>
-						<div class="image"><img src="<?$row['image']?>"></div>
+						<div class="image"><img src="<? echo $row['image'] ?>"></div>
 						<div class="tittle"><?php echo $row['price'] ?></div>
 					</div>
 				<?
