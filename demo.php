@@ -21,7 +21,7 @@
 	{
 		width: 100%;
 		height: 50px;
-		background-color: #C6BEBE;
+		background-color:  #6EE1E5;
 	}
 	.buttonnav
 	{
