@@ -10,10 +10,13 @@
 		}
 		.header
 		{
-			width: 100%;
-			height: 208px;
-			background-color:white;
-
+		width: 100%;
+		height: 208px;
+		background-color:white;
+		}
+		.header img{
+		max-width: 90%;
+		max-height: 99%;
 		}
 		.navbg{
 			width: 100%;
@@ -77,14 +80,6 @@
 			height: 1200px;
 
 		}
-		.banner p
-		{
-			font-size: 80px;
-			color: red;
-			text-align: center;
-			text-decoration: underline;
-
-		}
 		.list
 		{
 			width: 100%;
@@ -105,7 +100,7 @@
 		}
 		.item img
 		{
-			width: 200px;
+			width: 300px;
 			height: 200px;
 		}
 		.image
@@ -116,27 +111,9 @@
 		{
 			margin:10px;
 		}
-		.aaaa{
-			margin: 0 auto;
-			width: 90%;
-			text-align: center;
-			float:left;
-			text-align: left;
-
-		}
-		.iname
-		{
-			font-size: 50px;
-			font-weight: bold;
-			float: right;
-			
-		}
-		.ides
-		{
-			font-size:30px;
-			float: right;
-			
-		}
+	
+		
+		
 		
 </style>
 </head>
