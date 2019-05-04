@@ -44,6 +44,11 @@
 		background-color:white;
 
 	}
+
+	.header img{
+		max-width: 30px;
+		max-height: 30px;
+	}
 	.banner
 	{
 		width: 100%;
