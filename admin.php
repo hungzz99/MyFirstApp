@@ -144,6 +144,9 @@ $rows=pg_fetch_assoc($result)
 			<div class="hello"><?php echo "Hello, " . $rows['users'] ?></div>
 					
 				</div>
+				<form action="https://hungzz99.herokuapp.com/demo.php">
+					<input type="submit" name="Log Out">
+				</form>
 			</div>			
 		</div>
 		<div class="navbg">
