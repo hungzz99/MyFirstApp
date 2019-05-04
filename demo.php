@@ -133,7 +133,7 @@
 
 					<form action="https://hungzz99.herokuapp.com/loign.php">
 						Hot line : 099-888-999
-						<input type="button" name="SignIn" value="Login">
+						<input type="submit" name="SignIn" value="Login">
 					</form>
 					
 				</div>
