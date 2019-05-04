@@ -81,6 +81,34 @@
 		box-sizing: border-box;
 		text-align: center;
 	}
+	.nav ul
+		{
+			margin: 0 auto;
+			padding: 1px 30px;
+			list-style: none;
+			align-content: auto;
+		}
+		.nav a
+		{
+			padding: 0 10px;
+			text-decoration: none;
+			font-size: 30px;
+			color: black;
+			display: block;
+			line-height: 50px;
+
+		}
+		.nav li
+		{	margin: auto;
+			float: left;
+			padding: 0px 20px;
+			
+		}
+		.nav a:hover
+		{
+			background-color: #52CA3A;
+			color: yellow;
+		}
 	<form/>
 </style>
 </body>
