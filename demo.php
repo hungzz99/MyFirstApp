@@ -26,7 +26,7 @@
 		}
 		.nav
 		{ 	margin-left: 350px;
-			width: 70%;
+			width: 50%;
 			height: 50px;
 			background-color: #C6BEBE;
 			align-self: auto;
@@ -44,7 +44,7 @@
 		{
 			padding: 0 10px;
 			text-decoration: none;
-			font-size: 30px;
+			font-size: 20px;
 			color: black;
 			display: block;
 			line-height: 50px;
@@ -100,8 +100,8 @@
 		}
 		.item img
 		{
-			width: 300px;
-			height: 200px;
+			width: 250px;
+			height: 300px;
 		}
 		.image
 		{
