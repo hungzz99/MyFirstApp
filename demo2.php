@@ -15,9 +15,9 @@ $result = pg_query($db,"SELECT * FROM Products");
 <?php
 echo "<table align='center' id='customers'>";
 while($row=pg_fetch_assoc($result)){echo "<tr>";
-echo "<td align='center' width='200'>" . $row['name'] . "</td>";
-echo "<td align='center' width='200'>" . $row['price'] . " $" . "</td>";
-echo "<td align='center' width='200'>";?><img src="/<?php echo $row['image']; ?>" height="150" width="150"><?php "</td>";
+echo "<td align='center' width='200'>" . $row['Column_2'] . "</td>";
+echo "<td align='center' width='200'>" . $row['Column_4'] . " $" . "</td>";
+echo "<td align='center' width='200'>";?><img src="/<?php echo $row['Column_3']; ?>" height="150" width="150"><?php "</td>";
 echo "</tr>";}echo "</table>";?>
 </body>
 </html>
