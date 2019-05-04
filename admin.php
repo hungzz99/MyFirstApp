@@ -120,7 +120,7 @@
 		}
 		.hello
 		{
-			font-color: blue;
+			color: blue;
 			text-decoration: underline;
 		}
 	
