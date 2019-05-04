@@ -30,15 +30,12 @@
 		padding-right: 5px;
 	}
 	.nav
-		{ 	margin-left: 350px;
+	{ 	margin-left: 350px;
 			width: 70%;
 			height: 50px;
 			background-color: #C6BEBE;
 			align-self: auto;
-
-
-		}
-
+	}
 	<form/>
 </style>
 </body>
@@ -53,11 +50,13 @@
 			</div>
 		</div>
 	</div>
+	
 	<div class="navbg">
 			<form action="search.php" method="GET">
 			<div class="buttonnav"><input type="text" name="keyword" placeholder="Search...">
 				<input type="submit" name="Search" value="Search"></div>
 			</form>
+
 			<div class="nav">
 				<form action=""https://hungzz99.herokuapp.com/demo.php"">
 					<li>Products</li>
