@@ -152,10 +152,11 @@ $result = pg_query($db,"SELECT * FROM Products");
 				while ($row=pg_fetch_assoc($result))
 				{
 				?>
+
 					<div class="item">
-						<div class="tittle"><?$row['iname']?></div>
+						<div class="tittle"><?php echo $row['iname'] ?></div>
 						<div class="image"><img src="<?$row['image']?>"></div>
-						<div class="tittle"><?$row['price']?></div>
+						<div class="tittle"><?php echo $row['price'] ?></div>
 					</div>
 				<?
 				}
