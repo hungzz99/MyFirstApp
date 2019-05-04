@@ -46,8 +46,8 @@
 	}
 
 	.header img{
-		max-width: 30px;
-		max-height: 30px;
+		max-width: 100px;
+		max-height: 100px;
 	}
 	.banner
 	{
