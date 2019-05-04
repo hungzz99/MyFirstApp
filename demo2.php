@@ -9,7 +9,7 @@ $db = pg_connect("host=ec2-174-129-208-118.compute-1.amazonaws.com port=5432 dbn
 $result = pg_query($db,"SELECT * FROM Products");
 ?>
 <table align="center">
-	<tr><th align='center' width='200'>Name</th><th align='center' width='200'>Price ($)</th><th align='center' width='200'>Quantity</th><th align='center' width='200'>Image</th></tr>
+	<tr><th align='center' width='200'>Name</th><th align='center' width='200'>Price ($)</th><th align='center' width='200'>Image</th></tr>
 </table>
 <?php
 echo "<table align='center'>";
