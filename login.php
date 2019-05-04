@@ -13,6 +13,6 @@ session_start();
 	    
 	echo "<meta http-equiv='refresh' content='0;url=demo.php' />";
 	}else{
-	echo "Ngu";
+	echo "<meta http-equiv='refresh' content='0;url=loign.php' />";
 	}
 ?>
