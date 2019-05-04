@@ -52,8 +52,8 @@
 	.banner p
 	{
 		font-size: 80px;
-		color: red;
-		text-align: blue;
+		color: blue;
+		text-align: center;
 		
 	}
 	.list
