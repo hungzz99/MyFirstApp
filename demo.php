@@ -146,7 +146,7 @@
 			</form>
 			<div class="nav">
 				<ul>
-					<li><a href="https://hungzz99.herokuapp.com/">Home</a></li>
+					<li><a href="https://hungzz99.herokuapp.com/demo.php">Home</a></li>
 					<li><a >Category</a></li>
 					<li><a >Admin</a></li>
 					<li><a >FeedBack</a></li>
@@ -155,7 +155,7 @@
 		</div>
 	</div>
 		<div class="banner">
-			<p>Toy Store</p>
+			<p>Toy Shop</p>
 			<div class="list">
 				<?php
 $db = pg_connect("host=ec2-174-129-208-118.compute-1.amazonaws.com port=5432 dbname=d6hnv52hdi9nnk user=gpjcnwwhasdiya password=e9144a959f5174b3271698c559c6c557bce4d71494e9599fa793d33ede9b9436");
