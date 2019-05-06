@@ -32,9 +32,6 @@
 			height: 50px;
 			background-color: #3DEDEF;
 			align-self: auto;
-			
-
-
 		}
 		.nav ul
 		{
