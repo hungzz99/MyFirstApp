@@ -101,7 +101,7 @@
 		.item img
 		{
 			width:100%;
-			height: 285px;
+			height: 250px;
 		}
 		.image
 		{
