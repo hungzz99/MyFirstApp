@@ -13,6 +13,8 @@
 		width: 100%;
 		height: 208px;
 		background-color:white;
+		position: fixed;
+
 		}
 		.header img{
 		max-width: 90%;
@@ -30,6 +32,7 @@
 			height: 50px;
 			background-color: #3DEDEF;
 			align-self: auto;
+			position: fixed;
 
 
 		}
